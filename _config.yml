@@ -1,0 +1,27 @@
+remote_theme : poole/hyde 
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Nukzan's learning blog
+tagline:          'Marveloping'
+description:      'Marketing with programming'
+url:              http://nukzan.github.io
+baseurl:          /
+
+author:
+  name:           'Nukzan'
+  url:            https://nukzan.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/Nukzan
