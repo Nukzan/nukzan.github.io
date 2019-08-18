@@ -1,4 +1,4 @@
-remote_theme : mmistakes/hpstr-jekyll-theme 
+remote_theme : mmistakes/hpstr-jekyll-theme
 title:            Marveloping
 description:      Nukzan's blog.
 disqus_shortname: 
